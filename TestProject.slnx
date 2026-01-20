@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
   <Project Path="src/ConsoleApp2/ConsoleApp2.csproj" Id="d1f51b32-bebc-422e-8861-ec37d367340b" />
   <Project Path="src/ConsoleApp3/ConsoleApp3.csproj" Id="65b2c600-60bc-42c2-b11c-869757b8142f" />
 </Solution>
